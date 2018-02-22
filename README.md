@@ -4,6 +4,8 @@ This example package will be cloned and built as a dependency if you build the `
     cd example-package-dealer
     swift run Dealer
 
+This is in the duplicate commit
+
 # License
 
                                  Apache License
